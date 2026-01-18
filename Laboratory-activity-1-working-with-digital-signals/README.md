@@ -1,4 +1,4 @@
-###**Laboratory Activity #1**
+# **Laboratory Activity #1**
 **Working with Digital Signals**
 
 **Course**
